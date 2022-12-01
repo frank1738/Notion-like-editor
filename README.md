@@ -49,12 +49,10 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Notion-like App] <a name="about-project"></a>
+# 📖 Notion-like App <a name="about-project"></a>
 
 > This is a notion-like an app that lets you write anywhere and convert your content into H1
 
@@ -79,8 +77,8 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[Normal Text Editing]**
-- **[Coverting normal text to H1 text]**
+- **Normal Text Editing**
+- **Coverting normal text to H1 text**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +116,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git https://github.com/frank1738/Notion-like-editor.git
+  git clone https://github.com/frank1738/Notion-like-editor.git
 ```
 
 ### Usage
@@ -151,10 +149,6 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -165,22 +159,10 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > I would like to thank [Helpjuice](http://www.helpjuice.com/?utm_source=linkedin&utm_medium=social) for this task that has enabled me to learn something new
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
