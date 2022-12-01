@@ -4,7 +4,7 @@ const menu = document.querySelector('.menu');
 const selectedHeader = document.querySelector('.selected-header');
 
 let element;
-export const createHeader = (value) => {
+const createHeader = (value) => {
   const header = document.createElement(element);
   header.innerText = value;
   header.contentEditable = 'true';
@@ -13,7 +13,7 @@ export const createHeader = (value) => {
 };
 
 inputData.addEventListener('keyup', (e) => {
-  const value = e.target.value;
+  const { value } = e.target;
   if (e.key === 'Enter') {
     createHeader(value);
     inputData.placeholder = 'Type / for blocks';
