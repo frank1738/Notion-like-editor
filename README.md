@@ -40,14 +40,10 @@ After you're finished please remove all the comments and instructions!
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 
 <!-- PROJECT DESCRIPTION -->
@@ -74,8 +70,6 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Normal Text Editing**
 - **Coverting normal text to H1 text**
@@ -121,7 +115,7 @@ Clone this repository to your desired folder:
 
 ### Usage
 
-- [] Open the Html file on your browser
+- Open the Html file on your browser
 
 ### Run tests
 
