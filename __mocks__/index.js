@@ -1,3 +1,6 @@
+/* eslint-disable import/prefer-default-export */
+/* eslint-disable no-useless-concat */
+
 export const createHeader = (value) => {
   document.body.innerHTML = '<div>' + '  <div class="tasks"></div>' + '</div>';
   const contentContainer = document.createElement('div');

@@ -1,4 +1,5 @@
 import { createHeader } from './__mocks__/index.js';
+
 jest.mock('./index.js');
 
 describe('Check if the block elements are being added to the DOM Correctly', () => {

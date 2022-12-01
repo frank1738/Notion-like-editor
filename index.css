@@ -58,7 +58,7 @@ body {
 .main {
   height: 70vh;
   overflow: auto;
-  box-shadow: 0 5px 0px lightgray;
+  box-shadow: 0 5px 0 lightgray;
 }
 
 .font {
